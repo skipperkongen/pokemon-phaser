@@ -1,7 +1,12 @@
 # Phaser Webpack Template
 
-> Created from: https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6 
+> Copied from: https://medium.com/@michaelwesthadley/modular-game-worlds-in-phaser-3-tilemaps-1-958fc7e6bbd6 
 
+This repo was initialised with:
+
+```shell
+npm create @phaserjs/game@latest
+```
 
 This is a Phaser 3 project template that uses webpack for bundling. It supports hot-reloading for quick development workflow and includes scripts to generate production-ready builds.
 
